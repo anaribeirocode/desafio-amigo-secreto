@@ -32,7 +32,7 @@ A proposta foi criar uma aplicação simples, interativa e divertida para organi
 ## 🚀 Como usar
 
 1. Clone este repositório:
-git clone https://github.com/seu-usuario/amigo-secreto-challenge.git
+git clone https://github.com/anaribeirocode/desafio-amigo-secreto.git
 
 2. Abra o `index.html` no seu navegador.
 
