@@ -20,8 +20,8 @@ A proposta foi criar uma aplicação simples, interativa e divertida para organi
 ## 💻 Tecnologias Utilizadas
 
 - HTML5
-- CSS3 (com variáveis e responsividade)
-- JavaScript (Vanilla JS)
+- CSS3 
+- JavaScript 
 
 ## 🖼️ Preview
 
